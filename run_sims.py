@@ -12,8 +12,8 @@ from sim_diff_mut_w_fission import run_sim
 # alpha = 4e-8
 
 # sim params upadetd
-loci  = 30e6 # Bases covered in an organoid from sequencing file
-alpha = 4e-8
+loci  = 8.7e7 # Max bases covered in an organoid from sequencing file
+alpha = 3e-9
 
 t_vals = [5, 10, 25, 50, 100, 150, 200, 250, 300]
 cells_tp = 1000
